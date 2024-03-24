@@ -6,7 +6,8 @@ public class Ejer4 {
        
         Programa.imprimirTitulo("EXERCÍCIO 04");
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in); 
+        
 
         int[] vetor = new int[5];
 
