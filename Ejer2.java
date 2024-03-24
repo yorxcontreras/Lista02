@@ -17,6 +17,7 @@ public class Ejer2 {
         for (int i = 0; i < tamanho; i++) {
             vetor[i] = scanner.nextInt();
         }
+        
 
         System.out.println("Número\t\tPositivo/Negativo/Zero");
         for (int i = 0; i < tamanho; i++) {
