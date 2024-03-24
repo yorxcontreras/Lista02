@@ -8,6 +8,7 @@ public class Ejer3 {
 
         Scanner scanner = new Scanner(System.in);
 
+        
         System.out.print("Digite o tamanho do vetor: ");
         int tamanho = scanner.nextInt();
 
