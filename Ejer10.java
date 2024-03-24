@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+
 public class Ejer10 {
 
     public static void executar () {
