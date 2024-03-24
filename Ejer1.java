@@ -15,6 +15,7 @@ public class Ejer1 {
             numeros[i] = scanner.nextInt();
             soma += numeros[i];
         }
+        
 
         double media = soma / 5.0;
         System.out.println("A média é: " + media);
