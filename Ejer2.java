@@ -4,7 +4,7 @@ public class Ejer2 {
 
     public static void executar () {
        
-        Programa.imprimirTitulo("EXERCÍCIO 02");
+        Programa.imprimirTitulo("EXERCICIO 02");
 
         Scanner scanner = new Scanner(System.in);
 
@@ -13,7 +13,7 @@ public class Ejer2 {
         
         int[] vetor = new int[tamanho];
         
-        System.out.println("Digite os números:");
+        System.out.println("Digite os numeros:");
         for (int i = 0; i < tamanho; i++) {
             vetor[i] = scanner.nextInt();
         }

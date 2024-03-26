@@ -5,8 +5,7 @@ public class Ejer8 {
 
     public static void executar () {
        
-        Programa.imprimirTitulo("EXERCÍCIO 08");
-        
+        Programa.imprimirTitulo("EXERCICIO 08");
 
         int[] A = {1, 2, 3, 4, 5};
         int[] B = {6, 7, 8, 9, 10};
